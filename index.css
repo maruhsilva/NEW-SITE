@@ -76,7 +76,7 @@ nav li a:hover {
 }
 
 .imagem img {
-    max-height: 60vh;
+    max-height: 55vh;
     animation: aparecer;
     animation-duration: 2s;
     display: flex;
@@ -182,7 +182,7 @@ nav li a:hover {
 } */
 
  .slide img {
-    width: 700px;
+    max-width: 100%;
 }
 /*
 .manual-navigation {
@@ -679,7 +679,6 @@ footer .copy .fa-regular {
     }
 
     .descricao img {
-        width: 350px;
         padding-top: 15%;
     }
 
