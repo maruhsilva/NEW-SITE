@@ -687,11 +687,6 @@ footer .copy .fa-regular {
         font-size: 1.5rem;
     }
 
-    .servicos img {
-        width: 350px;
-        border-radius: 0;
-    }
-
     .precos {
         flex-direction: column;
         padding: 15%;
