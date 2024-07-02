@@ -575,9 +575,9 @@ footer .copy .fa-regular {
     color: hsl(0, 0%, 100%, .8);
 }
 
-.nav, .descricao, .imagem, .servicos, .precos, .contato, .footer {
+/* .nav, .descricao, .imagem, .servicos, .precos, .contato, .footer {
     visibility: hidden;
-}
+} */
 
 @media (max-width: 1000px) { 
     
