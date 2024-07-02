@@ -76,7 +76,7 @@ nav li a:hover {
 }
 
 .imagem img {
-    height: 500px;
+    max-height: 60vh;
     animation: aparecer;
     animation-duration: 2s;
     display: flex;
